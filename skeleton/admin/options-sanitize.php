@@ -1,6 +1,6 @@
 <?php
 
-/* Text */
+/* hi */
 
 add_filter( 'of_sanitize_text', 'sanitize_text_field' );
 
